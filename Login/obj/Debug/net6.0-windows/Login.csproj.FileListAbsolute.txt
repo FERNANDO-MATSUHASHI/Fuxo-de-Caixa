@@ -1,0 +1,212 @@
+G:\Meu Drive\Unimar - 2022\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Login.exe
+G:\Meu Drive\Unimar - 2022\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Login.deps.json
+G:\Meu Drive\Unimar - 2022\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Login.runtimeconfig.json
+G:\Meu Drive\Unimar - 2022\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Login.dll
+G:\Meu Drive\Unimar - 2022\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Login.pdb
+G:\Meu Drive\Unimar - 2022\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.csproj.AssemblyReference.cache
+G:\Meu Drive\Unimar - 2022\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.Login.resources
+G:\Meu Drive\Unimar - 2022\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.csproj.GenerateResource.cache
+G:\Meu Drive\Unimar - 2022\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Unimar - 2022\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.AssemblyInfoInputs.cache
+G:\Meu Drive\Unimar - 2022\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.AssemblyInfo.cs
+G:\Meu Drive\Unimar - 2022\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Unimar - 2022\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.dll
+G:\Meu Drive\Unimar - 2022\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\refint\Login.dll
+G:\Meu Drive\Unimar - 2022\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.pdb
+G:\Meu Drive\Unimar - 2022\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.genruntimeconfig.cache
+G:\Meu Drive\Unimar - 2022\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\ref\Login.dll
+G:\Meu Drive\Unimar - 2022\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.Properties.Resources.resources
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Login.exe
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Login.deps.json
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Login.runtimeconfig.json
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Login.dll
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Login.pdb
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.csproj.AssemblyReference.cache
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.Login.resources
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.Properties.Resources.resources
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.csproj.GenerateResource.cache
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.AssemblyInfoInputs.cache
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.AssemblyInfo.cs
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.dll
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\refint\Login.dll
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.pdb
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.genruntimeconfig.cache
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\ref\Login.dll
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.Menu.resources
+E:\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Login.exe
+E:\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Login.deps.json
+E:\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Login.runtimeconfig.json
+E:\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Login.dll
+E:\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Login.pdb
+E:\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.csproj.AssemblyReference.cache
+E:\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.Login.resources
+E:\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.Menu.resources
+E:\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.Properties.Resources.resources
+E:\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.csproj.GenerateResource.cache
+E:\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.AssemblyInfoInputs.cache
+E:\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.AssemblyInfo.cs
+E:\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.csproj.CoreCompileInputs.cache
+E:\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.dll
+E:\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\refint\Login.dll
+E:\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.pdb
+E:\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.genruntimeconfig.cache
+E:\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\ref\Login.dll
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Login.exe
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Login.deps.json
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Login.runtimeconfig.json
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Login.dll
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Login.pdb
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.csproj.AssemblyReference.cache
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.Login.resources
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.Menu.resources
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.Properties.Resources.resources
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.csproj.GenerateResource.cache
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.AssemblyInfoInputs.cache
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.AssemblyInfo.cs
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.csproj.CoreCompileInputs.cache
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.dll
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\refint\Login.dll
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.pdb
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.genruntimeconfig.cache
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\ref\Login.dll
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.csproj.CopyComplete
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Login.exe
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Login.deps.json
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Login.runtimeconfig.json
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Login.dll
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Login.pdb
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.csproj.AssemblyReference.cache
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.Cadastro_Usuario.resources
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.Login.resources
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.Menu.resources
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.Properties.Resources.resources
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.csproj.GenerateResource.cache
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.AssemblyInfoInputs.cache
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.AssemblyInfo.cs
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.csproj.CoreCompileInputs.cache
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.csproj.CopyComplete
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.dll
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\refint\Login.dll
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.pdb
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.genruntimeconfig.cache
+C:\Users\matsu\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\ref\Login.dll
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.csproj.CopyComplete
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Login.exe
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Login.deps.json
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Login.runtimeconfig.json
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Login.dll
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Login.pdb
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.csproj.AssemblyReference.cache
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.Login.resources
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.Menu.resources
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.Properties.Resources.resources
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.csproj.GenerateResource.cache
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.AssemblyInfoInputs.cache
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.AssemblyInfo.cs
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.csproj.CopyComplete
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.dll
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\refint\Login.dll
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.pdb
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.genruntimeconfig.cache
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\ref\Login.dll
+C:\Users\Aula\Documents\Linguagem de Programação I\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.Gestao_Usuario.resources
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.Gestao_Usuario.resources
+C:\Users\matsu\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.Gestao_Fornecedor.resources
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.Gestao_Fornecedor.resources
+C:\Users\Aula\Documents\Fluxo de Caixa\Fluxo de Caixa\Login\obj\Debug\net6.0-windows\Login.Gestao_Usuario.resources
